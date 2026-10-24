@@ -1,0 +1,9 @@
+[package]
+name = "oil_painted_wallpaper_generator"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+image  = "0.25"
+eframe = "0.29"
+rfd = "0.14"
